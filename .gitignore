@@ -1,0 +1,8 @@
+git remote repository test/
+├─ .git/
+│  ├─ config
+├─ hello_world.md
+
+[user]
+  name =  samuelshulman10
+  email = sam.shulman10@gmail.com
